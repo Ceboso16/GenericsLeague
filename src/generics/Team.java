@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author esteb
+ * @author Anonimous
  
  */
 public class Team <T extends Player> implements Comparable<Team<T>> {

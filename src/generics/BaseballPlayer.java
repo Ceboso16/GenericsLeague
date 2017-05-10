@@ -7,7 +7,8 @@ package generics;
 
 /**
  *
- * @author esteb
+ * @author Anonimous
+ 
  */
 public class BaseballPlayer extends Player {
       public BaseballPlayer(String name) {

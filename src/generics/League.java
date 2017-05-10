@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  *
- * @author esteb
+ * @author Anonimous
  */
 public class League<L extends Team>  {
     String name;
